@@ -1,0 +1,38 @@
+_repo: Inside-John-Barth_28608
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Dillon, Diane
+    alias: Dillon, Diane Claire Sorber
+    birthdate: &id001 1933
+    gutenberg_agent_id: '32729'
+    url: http://www.gutenberg.org/2009/agents/32729
+  - agent_name: Dillon, Leo
+    birthdate: *id001
+    deathdate: 2012
+    gutenberg_agent_id: '32728'
+    url: http://www.gutenberg.org/2009/agents/32728
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stuart, William W.
+    gutenberg_agent_id: '33446'
+    url: http://www.gutenberg.org/2009/agents/33446
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+title: Inside John Barth
+url: http://www.gutenberg.org/ebooks/28608
